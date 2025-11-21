@@ -11,6 +11,7 @@ Our research bridges the gap between abstract reasoning and physical realization
 Our faculty members offer a rigorous curriculum spanning theoretical computer science, hardware/software systems, and artificial intelligence.
 
 **Theory & Logic**
+
 * Discrete Mathematics
 * Introduction to Logic
 * Theory of Computation
@@ -18,40 +19,38 @@ Our faculty members offer a rigorous curriculum spanning theoretical computer sc
 * Design and Analysis of Algorithms
 
 **Systems & Security**
+
 * Operating Systems
 * Cryptography and Network Security
 * Machine Learning Systems
 
 **Artificial Intelligence**
+
 * Search Methods in AI
 * Knowledge Representation and Reasoning
 
 ### Group Members
 
 1. Dr. Deepak Khemani, *Professor*
-**Email**: `deepak.khemani@plaksha.edu.in`
 
-Dr. Khemani focuses on the cognitive aspects of computing. His research spans the breadth of classical and modern AI, focusing on how systems can represent knowledge and reason with it to solve complex planning problems.
+**Email**: `deepak.khemani@plaksha.edu.in`
 
 **Research Interests**: Artificial Intelligence, Knowledge-based Systems, Case-based Reasoning, Knowledge Representation, Planning, Logic, Natural Language Processing.
 
 2. Dr. Saeed Salehi, *Associate Professor*
-**Email**: `saesal@gmail.com`
 
-Dr. Salehi specializes in the mathematical foundations of computer science. His work delves into the core of logic and complexity, investigating the theoretical limits of what machines can prove and compute.
+**Email**: `saesal@gmail.com`
 
 **Research Interests**: Theory of Computability and Complexity, Relations with Logic, Mathematical Logic (Completeness, Decidability, and Axiomatizability).
 
 3. Dr. Tapas Pandit, *Assistant Professor*
-**Email**: `tapas.pandit@plaksha.edu.in`
 
-Dr. Pandit works on the security infrastructure of the future. He focuses on algorithmic design and the mathematical hardening of networks against emerging threats, including those posed by quantum adversaries.
+**Email**: `tapas.pandit@plaksha.edu.in`
 
 **Research Interests**: Cryptography, Post-quantum Security, and Quantum Computing.
 
 4. Dr. Pankaj Pansari, *Assistant Professor*
-**Email**: pankaj.pansari@plaksha.edu.in
 
-Dr. Pansari focuses on the systems engineering required to power modern AI. His work bridges software and hardware to make the training and inference of large-scale models more efficient and capable.
+**Email**: `pankaj.pansari@plaksha.edu.in`
 
 **Research Interests**: Efficient inference and training of LLMs, benchmarking reasoning abilities of multimodal LLMs.
