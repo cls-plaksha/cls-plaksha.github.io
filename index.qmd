@@ -1,6 +1,5 @@
-## Computability, Logic, and Systems Group, Plaksha University
-
-### About the Group
+# Computability, Logic, and Systems Group
+## Plaksha University
 
 The Computability, Logic, and Systems (CLS) group operates at the intersection of mathematical foundations and modern computational engineering. We explore the theoretical boundaries of computing—from axiomatizability and complexity classes—and apply these principles to build robust, intelligent systems.
 
