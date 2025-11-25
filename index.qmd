@@ -40,7 +40,7 @@ Our faculty members offer a rigorous curriculum spanning theoretical computer sc
 
 **Email**: `saesal@gmail.com`
 
-**Research Interests**: Theory of Computability and Complexity, Relations with Logic, Mathematical Logic (Completeness, Decidability, and Axiomatizability).
+**Research Interests**: Theory of Computability and Complexity, Mathematical Logic (Completeness, Decidability, and Axiomatizability).
 
 3. Dr. Tapas Pandit, *Assistant Professor*
 
