@@ -42,7 +42,7 @@ Our faculty members offer a rigorous curriculum spanning theoretical computer sc
 
 **Email**: `saeed.salehi@plaksha.edu.in`
 
-**Webpage**: [www.SaeedSalehi.ir](www.SaeedSalehi.ir), [https://bit.ly/SaeedSalehi](https://bit.ly/SaeedSalehi)
+**Webpage**: [www.SaeedSalehi.ir](https://saeedsalehi.ir), [https://bit.ly/SaeedSalehi](https://bit.ly/SaeedSalehi)
 
 **Research Interests**: Theory of Computability and Complexity, Mathematical Logic (Completeness, Decidability, and Axiomatizability).
 
