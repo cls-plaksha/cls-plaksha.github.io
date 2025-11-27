@@ -1,9 +1,9 @@
 # Computability, Logic, and Systems Group
 ## Plaksha University
 
-The Computability, Logic, and Systems (CLS) group operates at the intersection of mathematical foundations and modern computational engineering. We explore the theoretical boundaries of computing—from axiomatizability and complexity classes—and apply these principles to build robust, intelligent systems.
+The Computability, Logic, and Systems (CLS) group operates at the intersection of mathematical foundations and modern computational engineering. We explore the theoretical boundaries of computing — from axiomatizability and complexity classes—and apply these principles to build robust, intelligent systems.
 
-Our research bridges the gap between abstract reasoning and physical realization. We study Mathematical Logic and Complexity to understand the limits of computation, utilizing these insights to design post-quantum Cryptographic protocols. Simultaneously, we focus on Artificial Intelligence, investigating both the symbolic reasoning required for planning and the system-level optimizations necessary for training massive Multimodal LLMs.
+Our research bridges the gap between abstract reasoning and physical realization. We study Mathematical Logic and Complexity to understand the limits of computation, utilizing these insights to design post-quantum Cryptographic protocols. Simultaneously, we focus on Artificial Intelligence, investigating both the symbolic reasoning required for planning and the system-level optimizations necessary for training massive multimodal LLMs.
 
 ### Courses Offered
 
@@ -34,11 +34,15 @@ Our faculty members offer a rigorous curriculum spanning theoretical computer sc
 
 **Email**: `deepak.khemani@plaksha.edu.in`
 
+**Webpage**: [https://plaksha.edu.in/faculty-details/dr-deepak-khemani](https://plaksha.edu.in/faculty-details/dr-deepak-khemani)
+
 **Research Interests**: Artificial Intelligence, Knowledge-based Systems, Case-based Reasoning, Knowledge Representation, Planning, Logic, Natural Language Processing.
 
 2. Dr. Saeed Salehi, *Associate Professor*
 
-**Email**: `saesal@gmail.com`
+**Email**: `saeed.salehi@plaksha.edu.in`
+
+**Webpage**: [www.SaeedSalehi.ir](www.SaeedSalehi.ir), [https://bit.ly/SaeedSalehi](https://bit.ly/SaeedSalehi)
 
 **Research Interests**: Theory of Computability and Complexity, Mathematical Logic (Completeness, Decidability, and Axiomatizability).
 
@@ -46,10 +50,14 @@ Our faculty members offer a rigorous curriculum spanning theoretical computer sc
 
 **Email**: `tapas.pandit@plaksha.edu.in`
 
+**Webpage**: [https://sites.google.com/view/tapas-pandit/](https://sites.google.com/view/tapas-pandit/)
+
 **Research Interests**: Cryptography, Post-quantum Security, and Quantum Computing.
 
 4. Dr. Pankaj Pansari, *Assistant Professor*
 
 **Email**: `pankaj.pansari@plaksha.edu.in`
+
+**Webpage**: [https://pankajpansari.github.io/](https://pankajpansari.github.io/)
 
 **Research Interests**: Efficient inference and training of LLMs, benchmarking reasoning abilities of multimodal LLMs.
